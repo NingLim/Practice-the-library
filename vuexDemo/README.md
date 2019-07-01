@@ -1,6 +1,6 @@
-# todolist
+# vuex
 
-> todolist vue project
+> vue project
 
 create by ning 
 
