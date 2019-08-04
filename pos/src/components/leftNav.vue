@@ -57,7 +57,7 @@ export default {
 .left-nav li {
   list-style: none;
   text-align: center;
-  border-bottom: 1px solid #20a0ff;
+  border-bottom: 2px solid #20a0ff;
   padding: 10px;
 }
 </style>
